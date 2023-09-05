@@ -28,6 +28,13 @@
   margin-bottom: 20px;
 }
 
+.tasks-container {
+  height: 40px;
+}
+.task {
+  text-align: right;
+}
+
 .row {
   display: flex;
   align-items: center;
